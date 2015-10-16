@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_normal">22sp</dimen>
+    <dimen name="size_small">18sp</dimen>
+    <dimen name="size_smaller">14sp</dimen>
+    <dimen name="size_smallest">10sp</dimen>
+    <dimen name="size_big">26sp</dimen>
+    <dimen name="size_bigger">30sp</dimen>
+    <dimen name="size_biggest">34sp</dimen>
+
+    <dimen name="distance_activity_edge">16dp</dimen>
+    <dimen name="distance_widget_normal">10dp</dimen>
+    <dimen name="distance_widget_short">5dp</dimen>
+    <dimen name="distance_widget_long">15dp</dimen>
+    <dimen name="distance_layout_normal">40dp</dimen>
+    <dimen name="distance_layout_short">30dp</dimen>
+    <dimen name="distance_layout_shorter">20dp</dimen>
+    <dimen name="distance_layout_shortest">10dp</dimen>
+    <dimen name="distance_layout_long">50dp</dimen>
+    <dimen name="distance_layout_longer">60dp</dimen>
+    <dimen name="distance_layout_longest">70dp</dimen>
+</resources>

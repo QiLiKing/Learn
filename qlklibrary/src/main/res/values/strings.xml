@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QlkLibrary</string>
+    <string name="prompt_connect_net">正在联网，请稍后...</string>
+</resources>
